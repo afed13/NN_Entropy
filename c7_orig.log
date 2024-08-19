@@ -1,0 +1,89 @@
+	 Program ANN_ENTROPY 
+Datafile:            a.dat
+First point:         1
+Number of Records:   2000
+Number of Variables: 9
+Number of requested CPUs:      2
+Number of available CPUs:      2
+MinClus:             2
+MaxClus:             2
+k-NN:                4
+Epsilon:             0
+Data size: 2000, dimension: 9
+0	1
+1		0
+0	2
+2		0
+minpoint:
+0	2
+1	6
+2	7
+maxpoint:
+0	2
+1	8
+2	9
+Total number of clusters: 6
+Data Reading Done. 2000 records extracted
+Cluster# 2
+ BF: 4000	 BF_TOT: 4000
+Selected Dimensions: 6,8
+H:
+-0.550782738824076912
+-0.535924666721333987
+-0.554070317121788558
+-0.570099152056792735
+
+
+Cluster# 1
+ BF: 4000	 BF_TOT: 8000
+Selected Dimensions: 6,7
+H:
+-1.11938298391173374
+-1.12040158827946668
+-1.09644882033144153
+-1.09351946652816467
+
+
+Cluster# 3
+ BF: 4000	 BF_TOT: 12000
+Selected Dimensions: 6,9
+H:
+-0.451544206757651612
+-0.473263403889459644
+-0.484723018555609286
+-0.486948184578568144
+
+
+Cluster# 4
+ BF: 4000	 BF_TOT: 16000
+Selected Dimensions: 7,8
+H:
+-0.585390885279292172
+-0.553351082483645063
+-0.565402353191120977
+-0.574982870880363928
+
+
+Cluster# 6
+ BF: 4000	 BF_TOT: 20000
+Selected Dimensions: 8,9
+H:
+-0.533034342276263784
+-0.533088278419234673
+-0.523382604169477683
+-0.522888969229743039
+
+
+Cluster# 5
+ BF: 4000	 BF_TOT: 24000
+Selected Dimensions: 7,9
+H:
+-0.494913256683072511
+-0.506808982714037737
+-0.510144100958643598
+-0.522557405033738598
+
+
+All 6 clusters done.
+Number of total points visited: 24000
+

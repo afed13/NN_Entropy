@@ -1,0 +1,34 @@
+# verbose v 
+v
+# datafile
+a.dat
+# first record
+1
+# number of records
+2000
+# number of variables
+9
+# k-NN
+4
+# epsilon
+0.0
+# minclus
+2
+# maxclus
+2
+# first cluster
+6
+7
+# last cluster
+8
+9
+# trimming
+n
+
+
+ 
+
+
+
+
+

@@ -1,0 +1,7 @@
+
+
+int MAX_KNN = 50;
+int MAX_CLUSTERSIZE = 40;
+int MAX_VAR = 50000;
+double MAX_EPSILON = 1.0;
+int NUMBER_PREC = 18;

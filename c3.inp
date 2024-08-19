@@ -1,0 +1,33 @@
+# verbose v 
+v
+# datafile
+f50.dat
+# first record
+1
+# number of records
+50
+# number of variables
+14
+# k-NN
+2
+# epsilon
+0.0
+# minclus
+1
+# maxclus
+4
+# first cluster
+1
+# last cluster
+6
+7 
+8
+9
+ 
+
+ 
+
+
+
+
+
