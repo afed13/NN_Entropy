@@ -9,4 +9,4 @@ Please cite as follows:
 
 2) Nearest-neighbor nonparametric method for estimating the configurational entropy of complex molecules. Vladimir Hnizdo, Eva Darian, Adam Fedorowicz, Eugene Demchuk, Shengqiao Li, Harshinder Singh. 2006  https://doi.org/10.1002/jcc.20589
 
-3) Nearest Neighbor Estimates of Entropy. Harshinder Singh, Neeraj Misra, Vladimir Hnizdo, Adam Fedorowicz, Eugene Demchuk.2013. https://doi.org/10.1080/01966324.2003.10737616
+3) Nearest Neighbor Estimates of Entropy. Harshinder Singh, Neeraj Misra, Vladimir Hnizdo, Adam Fedorowicz, Eugene Demchuk. 2003. https://doi.org/10.1080/01966324.2003.10737616
